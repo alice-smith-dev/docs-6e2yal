@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-5com2r.cuansalam.sbs/sitemap.xml
